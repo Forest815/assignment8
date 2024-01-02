@@ -1,5 +1,2 @@
-# GitHub利用の練習
-- VSCode から GitHub にリポジトリを発行
-コミット
-komitto
-markdown
+# プログラミング1課題8の提出場所
+- コードは「kadai8.py」に入っています
